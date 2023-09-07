@@ -3,4 +3,6 @@ This is a Tic-Tac-Toe game coded in python. It has a single player as well as a 
 
 There is a colourful version of this game(tictactoe_coloured.py)
 
-For the coloured version, you need to install colorama( pip install termcolor --> for windows)( pip3 install termcolor --> for mac and linux)
+For the coloured version, you need to install colorama
+  WINDOWS --> pip install termcolor 
+  MAC/LINUX --> pip3 install termcolor
