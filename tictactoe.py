@@ -1,4 +1,5 @@
 import random
+import time
 
 gameList = [1, 2, 3, 4, 5, 6, 7, 8, 9] #This list stores the characters of the game board
 def gameBoard(gameList):
@@ -44,6 +45,7 @@ def singlePlayer(gameList):
                     
             elif turn == 2:
                 # CPU's Turn
+                time.sleep(0.6)
                 oInput = random.randint(1,9)  # CPU chooses a random spot
                 if oInput not in gameList: # checks if space is available at the entered position
                     continue
