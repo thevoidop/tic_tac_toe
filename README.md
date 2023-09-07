@@ -5,5 +5,5 @@ There is a colourful version of this game(tictactoe_coloured.py)
 
 For the coloured version, you need to install termcolor module.
 
-For WINDOWS --> pip install termcolor 
-For MAC/LINUX --> pip3 install termcolor
+*  For WINDOWS --> pip install termcolor 
+*  For MAC/LINUX --> pip3 install termcolor
