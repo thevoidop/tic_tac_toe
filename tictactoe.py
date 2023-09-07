@@ -1,7 +1,4 @@
 import random
-import colorama
-from colorama import Fore
-colorama.init(autoreset=True)
 
 gameList = [1, 2, 3, 4, 5, 6, 7, 8, 9] #This list stores the characters of the game board
 def gameBoard(gameList):
