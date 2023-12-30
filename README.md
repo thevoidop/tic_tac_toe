@@ -51,4 +51,4 @@ This project uses the termcolor library for colored text output. More informatio
 TheVoidOP
 
 ## License
-This project is licensed under the MIT License - see the LICENSE.md file for details.
+This project is licensed under the MIT License.
